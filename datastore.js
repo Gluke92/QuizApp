@@ -1,4 +1,5 @@
 'use strict';
+questionNumber = 0;
 
 const STORE = [
   { 

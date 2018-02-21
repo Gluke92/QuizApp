@@ -4,8 +4,8 @@ let questionNumber = 0;
 let score = 0;
 
 /* navigate from splash page to quiz */
-$('js-next-question').on('click', event => {
-    console.log('Wutup');
+$('.js-start').on('click', '.start-button', event => {
+  console.log('Wutup');
 });
 
 
