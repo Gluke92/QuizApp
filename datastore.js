@@ -15,6 +15,10 @@ const STORE = [
     // answers[correctAnswer] to get correct answer. 
     //randomizing answers -> answers into Object -> use Object.keys
     /* display error message */
+
+    /* add randomize */ 
+
+    /* find index */ 
   },
   {
     /* Q2 */
@@ -25,7 +29,7 @@ const STORE = [
       'When a particular good is a rare find a given context',
       'When people really want new Jordans'
     ],
-    correctAnswer: 'When a given amount of goods has limited and mutually exclusive alternative uses',
+    correctAnswer: 0
   },
   {
     /* Q3 */
